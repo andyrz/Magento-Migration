@@ -1,0 +1,1 @@
+alert("JS open successfully");
